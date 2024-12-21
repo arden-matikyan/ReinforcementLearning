@@ -1,5 +1,6 @@
 # Ashta-Chamma 
 
+You can view the project report [here](https://github.com/arden-matikyan/ReinforcementLearning/blob/f1c102e1061027b5a565de7db3097b96606b2dea/ProjectReport.pdf).
 ## Description: 
 An Indian version of the popular game Ludo. 
 
